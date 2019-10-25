@@ -1,0 +1,12 @@
+[
+    {
+        "caption": "Log Commands: Log all commands",
+        "command": "log_commands",
+        "args": {"set": true}
+    },
+    {
+        "caption": "Log Commands: Stop logging commands",
+        "command": "log_commands",
+        "args": {"set": false}
+    }
+]
