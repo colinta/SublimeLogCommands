@@ -1,13 +1,13 @@
 {
   "name": "LogCommands",
+  "details": "https://github.com/colinta/SublimeLogCommands",
   "description": "Turn Sublime Text command logging on or off",
   "author": "Colin T.A. Gray (colinta)",
-  "details": "https://github.com/colinta/SublimeLogCommands",
   "labels": [],
   "releases": [
     {
-      "tags": true,
-      "sublime_text": ">=3000"
+      "sublime_text": ">=3000",
+      "tags": true
     }
   ]
 }
